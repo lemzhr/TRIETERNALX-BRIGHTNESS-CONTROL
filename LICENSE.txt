@@ -1,0 +1,9 @@
+MIT License
+
+Hak Cipta (c) 2025 ARIEL APRIELYULLAH
+
+Dengan ini diberikan izin, secara gratis, kepada siapa pun yang memperoleh salinan perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk memperdagangkan Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak untuk menggunakan, menyalin, mengubah, menggabungkan, menerbitkan, mendistribusikan, melisensikan ulang, dan/atau menjual salinan Perangkat Lunak, serta mengizinkan orang kepada siapa Perangkat Lunak disediakan untuk melakukan hal yang sama, sesuai dengan ketentuan berikut:
+
+Pernyataan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua salinan atau bagian signifikan dari Perangkat Lunak.
+
+PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, DAN TIDAK MELANGGAR. DALAM HAL APA PUN PARA PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU KEWAJIBAN LAINNYA, BAIK DALAM TINDAKAN KONTRAK, KESALAHAN, ATAU LAINNYA, YANG TIMBUL DARI, DARI, ATAU SEHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU HAL-HAL LAIN YANG BERKAITAN DENGAN PERANGKAT LUNAK INI.
